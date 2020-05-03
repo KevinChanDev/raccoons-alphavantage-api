@@ -1,4 +1,4 @@
-package com.raccoons.alphavantage.api;
+package com.raccoons.alphavantage.client;
 
 import com.raccoons.alphavantage.key.AlphaVantageKey;
 
